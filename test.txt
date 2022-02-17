@@ -1,0 +1,2 @@
+This is the simple test file
+Another file is added to this file
